@@ -16,7 +16,7 @@ const routes = {
   "cloudsmith.imushroom.cloudns.ch": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.imushroom.cloudns.ch.so": dockerHub,
 };
 
 function routeByHosts(host) {
